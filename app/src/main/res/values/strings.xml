@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CN KLECET</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">CN KLECET</string>
+
+    <string name="action_reload">Reload</string>
+    <string name="action_forward">Forward</string>
+    <string name="action_backward">Backward</string>
+    <string name="action_zoomin">Zoom In</string>
+    <string name="action_zoomout">Zoom Out</string>
+
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>

@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="klecet.cn.sudhir.cnklecet.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_reload"
+        android:orderInCategory="100"
+        android:title="@string/action_reload"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_zoomin"
+        android:orderInCategory="100"
+        android:title="@string/action_zoomin"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_zoomout"
+        android:orderInCategory="100"
+        android:title="@string/action_zoomout"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_forward"
+        android:orderInCategory="100"
+        android:title="@string/action_forward"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_backward"
+        android:orderInCategory="100"
+        android:title="@string/action_backward"
+        app:showAsAction="never" />
+
+</menu>
